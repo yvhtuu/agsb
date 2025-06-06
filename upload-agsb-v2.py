@@ -34,8 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "tangdong"         # 用户名
 UUID = "4470b6f9-4c80-450e-8a5d-7c0877ce932f"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "d.td20250520.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiNjkzYzZkOTY2ZDEyZTBlZmFkYzBlMTFhNDcxYjAyMTUiLCJ0IjoiMGM0ZDExNmUtMTMwNi00Yjc4LWExOTktZTk3ZGU4MmMzYTRlIiwicyI6Ik9XSTNORE01T1RBdE1qZ3laUzAwTlRnNUxUZ3hZVEF0T1RBeVkySmlPRFZpTW1SaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "fds.td1990.dpdns.org"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiNjkzYzZkOTY2ZDEyZTBlZmFkYzBlMTFhNDcxYjAyMTUiLCJ0IjoiYmQxYjVlMTktYTNhNS00ZGY3LWIxMzUtMzUzNjEwYmExNWViIiwicyI6Ik16RXpNamN6TVRFdE1XSmhNQzAwTW1GaExXSXpOV0l0TlRObE9USTBOMlF6TWpBeSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
